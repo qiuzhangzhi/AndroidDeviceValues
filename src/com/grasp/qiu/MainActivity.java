@@ -1,22 +1,9 @@
 package com.grasp.qiu;
 
-
-import java.util.ArrayList;
-import java.util.List;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.view.Display;
-import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
-
-
-
-
 
 public class MainActivity extends Activity {
 	TextView de;
